@@ -5,12 +5,19 @@ Input: All data will be read from a file. The first item to be read is a letter 
 Output: The encrypted or decrypted message test data
 
 Test input:
+
 E MATH MY MOTHER IS PRETTY
+
 D BREAD KUTOOTYDETENHNRESRROHIEFD
+
 E FOLKS DEAD PEOPLE CAN'T TALK TO FOLKS D CRY CLOAUOLSN
 
 Test Output:
+
 YHSTORRYMTIEMEPT
+
 THEKEYISUNDERTHEFRONTDOOR
+
 DECAFDLTTKAPNKLEOALOPETOS
+
 CALLUSOON
